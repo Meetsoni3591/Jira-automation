@@ -1,0 +1,32 @@
+[
+    {
+        "key": "SIM-1",
+        "summary": "Implement a user login system with email and password authentication.",
+        "description": "Simulated ticket for task: Implement a user login system with email and password authentication."
+    },
+    {
+        "key": "SIM-2",
+        "summary": "Create a user registration page with form validation.",
+        "description": "Simulated ticket for task: Create a user registration page with form validation."
+    },
+    {
+        "key": "SIM-3",
+        "summary": "Build a dashboard that displays user statistics and recent activity.",
+        "description": "Simulated ticket for task: Build a dashboard that displays user statistics and recent activity."
+    },
+    {
+        "key": "SIM-4",
+        "summary": "Create an admin panel to manage users and view logs.",
+        "description": "Simulated ticket for task: Create an admin panel to manage users and view logs."
+    },
+    {
+        "key": "SIM-5",
+        "summary": "Develop a notification system to alert users of updates.",
+        "description": "Simulated ticket for task: Develop a notification system to alert users of updates."
+    },
+    {
+        "key": "SIM-6",
+        "summary": "Build an API endpoint for user data retrieval.",
+        "description": "Simulated ticket for task: Build an API endpoint for user data retrieval."
+    }
+]
