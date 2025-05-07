@@ -1,26 +1,26 @@
 [
     {
-        "key": "KAN-38",
+        "key": "KAN-203",
         "summary": "Implement a user login system with email and password authentication."
     },
     {
-        "key": "KAN-39",
+        "key": "KAN-204",
         "summary": "Create a user registration page with form validation."
     },
     {
-        "key": "KAN-40",
+        "key": "KAN-205",
         "summary": "Build a dashboard that displays user statistics and recent activity."
     },
     {
-        "key": "KAN-41",
+        "key": "KAN-206",
         "summary": "Design a settings page where users can update their profile and password."
     },
     {
-        "key": "KAN-42",
+        "key": "KAN-207",
         "summary": "Create an admin panel to manage users and view logs."
     },
     {
-        "key": "KAN-43",
+        "key": "KAN-208",
         "summary": "Build an API endpoint for user data retrieval."
     }
 ]

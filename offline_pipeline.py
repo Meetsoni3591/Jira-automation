@@ -92,5 +92,4 @@ def run_offline_pipeline():
 
 if __name__ == "__main__":
     run_offline_pipeline()
-    print("\n--- Pipeline Execution Finished ---")
-    print(f"Execution Time: {datetime.now() - datetime.now()}")
+   

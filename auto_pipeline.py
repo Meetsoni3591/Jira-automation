@@ -1,4 +1,5 @@
 import os
+# import ollama
 import json
 import docx2txt
 from jira import JIRA
@@ -72,7 +73,7 @@ def create_repo_and_structure(ticket_data):
         repo.create_git_ref(ref=ref, sha=main_branch.commit.sha)
         print(f"Created branch: {branch}")
 
-# ========= STEP 3: Test Case Generation ========= #
+#  STEP 3: Test Case Generation  #
 
 def generate_test_cases(ticket):
     summary = ticket['summary']
@@ -108,7 +109,7 @@ def save_test_cases(ticket, content):
         f.write(content)
     print(f"Saved test cases: {file}")
 
-# ========= PIPELINE RUNNER ========= #
+
 
 def run_pipeline():
     print("Extracting requirements...")

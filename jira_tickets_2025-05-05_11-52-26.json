@@ -1,0 +1,244 @@
+[
+    {
+        "key": "MAIN-1",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-1-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Project Requirement Document'",
+                "description": "Sub-task of MAIN-1: Sub-task 1: Analyze and outline the technical requirements for 'Project Requirement Document'",
+                "type": "Sub-task",
+                "parent": "MAIN-1"
+            },
+            {
+                "key": "SUB-1-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Project Requirement Document'",
+                "description": "Sub-task of MAIN-1: Sub-task 2: Implement and test the components for 'Project Requirement Document'",
+                "type": "Sub-task",
+                "parent": "MAIN-1"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-2",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-2-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Implement a user login system with email and password authentication.'",
+                "description": "Sub-task of MAIN-2: Sub-task 1: Analyze and outline the technical requirements for 'Implement a user login system with email and password authentication.'",
+                "type": "Sub-task",
+                "parent": "MAIN-2"
+            },
+            {
+                "key": "SUB-2-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Implement a user login system with email and password authentication.'",
+                "description": "Sub-task of MAIN-2: Sub-task 2: Implement and test the components for 'Implement a user login system with email and password authentication.'",
+                "type": "Sub-task",
+                "parent": "MAIN-2"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-3",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-3-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Create a user registration page with form validation.'",
+                "description": "Sub-task of MAIN-3: Sub-task 1: Analyze and outline the technical requirements for 'Create a user registration page with form validation.'",
+                "type": "Sub-task",
+                "parent": "MAIN-3"
+            },
+            {
+                "key": "SUB-3-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Create a user registration page with form validation.'",
+                "description": "Sub-task of MAIN-3: Sub-task 2: Implement and test the components for 'Create a user registration page with form validation.'",
+                "type": "Sub-task",
+                "parent": "MAIN-3"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-4",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-4-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Build a dashboard that displays user statistics and recent activity.'",
+                "description": "Sub-task of MAIN-4: Sub-task 1: Analyze and outline the technical requirements for 'Build a dashboard that displays user statistics and recent activity.'",
+                "type": "Sub-task",
+                "parent": "MAIN-4"
+            },
+            {
+                "key": "SUB-4-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Build a dashboard that displays user statistics and recent activity.'",
+                "description": "Sub-task of MAIN-4: Sub-task 2: Implement and test the components for 'Build a dashboard that displays user statistics and recent activity.'",
+                "type": "Sub-task",
+                "parent": "MAIN-4"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-5",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-5-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Design a settings page where users can update their profile and password.'",
+                "description": "Sub-task of MAIN-5: Sub-task 1: Analyze and outline the technical requirements for 'Design a settings page where users can update their profile and password.'",
+                "type": "Sub-task",
+                "parent": "MAIN-5"
+            },
+            {
+                "key": "SUB-5-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Design a settings page where users can update their profile and password.'",
+                "description": "Sub-task of MAIN-5: Sub-task 2: Implement and test the components for 'Design a settings page where users can update their profile and password.'",
+                "type": "Sub-task",
+                "parent": "MAIN-5"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-6",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-6-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Set up email verification after registration.'",
+                "description": "Sub-task of MAIN-6: Sub-task 1: Analyze and outline the technical requirements for 'Set up email verification after registration.'",
+                "type": "Sub-task",
+                "parent": "MAIN-6"
+            },
+            {
+                "key": "SUB-6-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Set up email verification after registration.'",
+                "description": "Sub-task of MAIN-6: Sub-task 2: Implement and test the components for 'Set up email verification after registration.'",
+                "type": "Sub-task",
+                "parent": "MAIN-6"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-7",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-7-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Create an admin panel to manage users and view logs.'",
+                "description": "Sub-task of MAIN-7: Sub-task 1: Analyze and outline the technical requirements for 'Create an admin panel to manage users and view logs.'",
+                "type": "Sub-task",
+                "parent": "MAIN-7"
+            },
+            {
+                "key": "SUB-7-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Create an admin panel to manage users and view logs.'",
+                "description": "Sub-task of MAIN-7: Sub-task 2: Implement and test the components for 'Create an admin panel to manage users and view logs.'",
+                "type": "Sub-task",
+                "parent": "MAIN-7"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-8",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-8-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Develop a notification system to alert users of updates.'",
+                "description": "Sub-task of MAIN-8: Sub-task 1: Analyze and outline the technical requirements for 'Develop a notification system to alert users of updates.'",
+                "type": "Sub-task",
+                "parent": "MAIN-8"
+            },
+            {
+                "key": "SUB-8-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Develop a notification system to alert users of updates.'",
+                "description": "Sub-task of MAIN-8: Sub-task 2: Implement and test the components for 'Develop a notification system to alert users of updates.'",
+                "type": "Sub-task",
+                "parent": "MAIN-8"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-9",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-9-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Build an API endpoint for user data retrieval.'",
+                "description": "Sub-task of MAIN-9: Sub-task 1: Analyze and outline the technical requirements for 'Build an API endpoint for user data retrieval.'",
+                "type": "Sub-task",
+                "parent": "MAIN-9"
+            },
+            {
+                "key": "SUB-9-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Build an API endpoint for user data retrieval.'",
+                "description": "Sub-task of MAIN-9: Sub-task 2: Implement and test the components for 'Build an API endpoint for user data retrieval.'",
+                "type": "Sub-task",
+                "parent": "MAIN-9"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-10",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-10-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Integrate a search feature in the dashboard to find user activity.'",
+                "description": "Sub-task of MAIN-10: Sub-task 1: Analyze and outline the technical requirements for 'Integrate a search feature in the dashboard to find user activity.'",
+                "type": "Sub-task",
+                "parent": "MAIN-10"
+            },
+            {
+                "key": "SUB-10-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Integrate a search feature in the dashboard to find user activity.'",
+                "description": "Sub-task of MAIN-10: Sub-task 2: Implement and test the components for 'Integrate a search feature in the dashboard to find user activity.'",
+                "type": "Sub-task",
+                "parent": "MAIN-10"
+            }
+        ]
+    },
+    {
+        "key": "MAIN-11",
+        "summary": "Main Task",
+        "description": "Main task: Main Task",
+        "type": "Task",
+        "sub_tasks": [
+            {
+                "key": "SUB-11-1",
+                "summary": "Sub-task 1: Analyze and outline the technical requirements for 'Add logging and error handling throughout the application.'",
+                "description": "Sub-task of MAIN-11: Sub-task 1: Analyze and outline the technical requirements for 'Add logging and error handling throughout the application.'",
+                "type": "Sub-task",
+                "parent": "MAIN-11"
+            },
+            {
+                "key": "SUB-11-2",
+                "summary": "Sub-task 2: Implement and test the components for 'Add logging and error handling throughout the application.'",
+                "description": "Sub-task of MAIN-11: Sub-task 2: Implement and test the components for 'Add logging and error handling throughout the application.'",
+                "type": "Sub-task",
+                "parent": "MAIN-11"
+            }
+        ]
+    }
+]
